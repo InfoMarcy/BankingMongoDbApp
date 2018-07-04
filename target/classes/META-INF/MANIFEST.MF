@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BankingMongoDbApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Marci
+Implementation-Vendor-Id: com.luxmart
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BankingMongoDbApp
+Created-By: Maven Integration for Eclipse
+
